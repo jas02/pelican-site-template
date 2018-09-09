@@ -6,7 +6,7 @@ AUTHOR = u'AlfaWolf'
 SITENAME = u'Personal Blog'
 SITEURL = ''
 
-PATH = 'content'
+PATH = '~/Dropbox/pelican-honey'
 
 TIMEZONE = 'Europe/Prague'
 
